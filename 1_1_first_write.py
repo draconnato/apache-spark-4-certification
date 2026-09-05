@@ -21,7 +21,7 @@ print(spark.sparkContext)
 
 """
 You can create a new spark session If you want to customize session params:
-ie. spark.conf.set(...)
+ie. spark.conf.set(....)
 """
 spark_new = spark.newSession()
 print(spark_new)
