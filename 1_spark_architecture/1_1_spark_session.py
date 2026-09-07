@@ -3,6 +3,11 @@
 # [tool.databricks.environment]
 # environment_version = "5"
 # ///
+# MAGIC %md
+# MAGIC # Spark Session
+
+# COMMAND ----------
+
 """
 Databricks creates the SparkSession by default.
 """
